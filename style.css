@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'josefin sans','sans-serif';
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 90vh;
+ 
+}
+section .img-4 img{
+ width: 90%;
+ height: 300px!important;
+} 
+form input, form textarea {
+    border-radius: 0.5rem;
+  }
+  
+  form input:focus, form textarea:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 5px rgba(13, 110, 253, 0.5);
+  }
