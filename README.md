@@ -26,5 +26,3 @@ node server.js
 
 Open your browser and go to:
 http://localhost: create your own port in code  
-
-ScreenShorts : 
