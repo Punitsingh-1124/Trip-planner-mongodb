@@ -3,7 +3,7 @@
 TripPlanner is a travel planning web application designed to help users plan, explore, and book their dream vacations with ease. It offers destination info, custom plans, and a secure, user-friendly interface built using modern web technologies.
 
 # Screen Recording:
-<video controls src="Screen Recording 2025-06-26 233639.mp4" title="Title"></video>
+[<video controls src="Screen Recording 2025-06-26 233639.mp4" title="Title"></video>](https://github.com/user-attachments/assets/323d4447-824f-4b59-864a-f00f9bfca3a4)
 
 ## 🔧 Technologies Used
 
